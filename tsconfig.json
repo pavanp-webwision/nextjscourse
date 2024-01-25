@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-  ],
+, "app/api/(auth)/login.js", "contexts/AuthContext.tsz"  ],
   "exclude": ["node_modules"]
 }
